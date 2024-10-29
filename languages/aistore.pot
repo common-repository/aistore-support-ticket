@@ -1,0 +1,131 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loco Demo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-02 12:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: hi_IN\n"
+"X-Generator: Loco https://localise.biz/"
+
+msgid "Hello World"
+msgstr ""
+
+# Example comment
+#. Example pluralized message
+#, php-format
+msgid "An example"
+msgid_plural "%s examples"
+msgstr[0] ""
+msgstr[1] ""
+
+
+
+msgid "Tickets"
+msgstr ""
+
+msgid "Ticket Status"
+msgstr ""
+
+msgid "Description :"
+msgstr ""
+
+msgid "Category :"
+msgstr ""
+
+msgid "Status :"
+msgstr ""
+
+msgid "Sorry, your nonce did not verify"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Add Support Message"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Ticket Message List"
+msgstr ""
+
+msgid "Ticket Message List Not Found"
+msgstr ""
+
+msgid "Ticket List"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Add Ticket"
+msgstr ""
+
+msgid "Disputed"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "No Ticket Found"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Support Ticket"
+msgstr ""
+
+
+msgid "Setting"
+msgstr ""
+
+msgid "All Ticket List"
+msgstr ""
+
+msgid "Support Ticket Setting"
+msgstr ""
+
+msgid "Create 3 pages with short codes and select here  "
+msgstr ""
+
+msgid "Create Ticket form"
+msgstr ""
+
+msgid "Create a page add this shortcode "
+msgstr ""
+
+
+
+msgid "Ticket List page"
+msgstr ""
+
+msgid "Ticket Details Page"
+msgstr ""
+
+msgid "and then select that page here. "
+msgstr ""
+
+
+
